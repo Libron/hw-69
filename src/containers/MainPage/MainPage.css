@@ -1,0 +1,19 @@
+.Dish {
+    border: 1px solid black;
+    display: inline-block;
+    width: 150px;
+}
+
+.Dish h6 {
+    margin: 0;
+}
+
+.Dish p {
+    margin: 0;
+}
+
+.Dish img {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
